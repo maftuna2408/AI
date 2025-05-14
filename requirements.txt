@@ -5,5 +5,4 @@ matplotlib
 seaborn
 scipy
 statsmodels
--e .
-# Add any other dependencies you need for your project
+-e.
